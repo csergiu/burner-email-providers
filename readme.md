@@ -6,11 +6,13 @@ I'm okay with people using burner email addresses to get my free content, I just
 
 Please send a PR with any new ones you find. 
 
-## APIs
-
 ## Extensions
 
+### Free
+
 * [Burner Mail](https://burnermail.io)
+
+## APIs
 
 ### Free
 
