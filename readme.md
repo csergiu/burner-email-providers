@@ -8,6 +8,10 @@ Please send a PR with any new ones you find.
 
 ## APIs
 
+## Extensions
+
+* [Burner Mail](https://burnermail.io)
+
 ### Free
 
 * [Disposable](https://github.com/0x19/disposable)
